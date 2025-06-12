@@ -13,8 +13,7 @@ The Quant Trading Dashboard is a user-friendly, interactive web application buil
 ## Usage
 ### Installation
 1. Clone the repository: git clone https://github.com/your-username/quant-trading-dashboard.git
-cd quant-trading-dashboard
- Or download it to your local VSCode.
+cd quant-trading-dashboard; Or download it to your local VSCode.
 2. Run the streamlit app via terminal: streamlit run app.py
 3. Notes: Ensure these libraries are installed in your python: pip install ...
 - streamlit
